@@ -2,7 +2,7 @@
   <h1>
   <img src="https://github.com/t-aswath/Bytecon100-Yuvenza/assets/119417646/c4f6bfcf-0a00-44c2-8ca1-b06648dab4e9" width="100">
   <br>
-    BYTECON103-Networking with Linux
+    BYTECON102-Networking with Linux
   </h1>
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&color=black">
   <img src="https://img.shields.io/badge/zsh-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white&color=black">
